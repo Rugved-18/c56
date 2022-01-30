@@ -1,0 +1,12 @@
+image section{
+    display:flex;
+    justify-content:space-center; 
+}
+style section{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aqua
+}
+body{
+    text-align: center
+}
